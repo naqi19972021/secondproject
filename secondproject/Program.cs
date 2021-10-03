@@ -6,7 +6,7 @@ namespace secondproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello first change!");
         }
     }
 }
